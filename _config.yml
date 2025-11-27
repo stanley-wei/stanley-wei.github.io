@@ -1,0 +1,16 @@
+title: Stanley Wei
+
+include:
+  - _pages
+
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      permalink: /:basename/
