@@ -1,0 +1,104 @@
+$navbar-height: 77px;
+
+/* Navbar */
+@media (max-width: 600px) {
+  #myNavbar {
+    background-color: $navbar-bg;
+  }
+  #myNavbar .bur-navbar-logo {
+    margin: 0px 0px 0px 40px;
+  }
+  #myNavbar .bur-navbar-logo {
+    margin: 0px 0px 0px 20px;
+  }
+  #myNavbar a {
+    color: $navbar-link;
+    font-size: 12pt;
+  }
+  #myNavbar a:hover {
+    color: $black;
+  }
+  #myNavbar .dropdown-toggle {
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+  #myNavbar .dropdown:hover>.dropdown-menu {
+    display: block;
+    margin-top: 40px;
+  }
+  #myNavbar .navbar-toggler{
+    margin-right: 20px;
+  }
+}
+@media (min-width: 600px) {
+  #myNavbar {
+    background-color: $navbar-bg; 
+    border-bottom: 5px solid $navbar-border;
+  }
+  #myNavbar .bur-navbar-logo {
+    margin: 0px 0px 0px 40px;
+  }
+  #myNavbar a {
+    color: $navbar-link;
+    transition: 0.2s;
+    font-size: 12pt;
+    padding: 0.8rem;
+  }
+  #myNavbar a:hover {
+    color: $black;
+    // text-decoration: underline;
+  }
+  #myNavbar .dropdown-toggle {
+    margin-left: -2px;
+    margin-right: 8px;
+    padding-left: 0px;
+  }
+  #myNavbar .dropdown:hover>.dropdown-menu {
+    display: block;
+    margin-top: 40px;
+  }
+}
+#myNavbar {
+  background-color: $navbar-bg;
+  transition: 0.25s;
+  padding: 0px;
+}
+#myNavbar a {
+  font-weight: 500;
+  font-size: 12pt;
+  letter-spacing: 0.1pt;
+  font-family:"Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+#myNavbar img {
+  height: 50px;
+  padding:  8px 4px;
+  transition: 0.4s;
+}
+#myNavbar img:hover {
+  filter: brightness(140%);
+}
+#myNavbar.bur-shrunk img {
+  height: 45px;
+}
+#myNavbar .navbar-toggler {
+  border: 0px solid $black;
+  -webkit-transition:  border-radius 0.4s;
+ -moz-transition:  border-radius 0.4s;
+ -o-transition:  border-radius 0.4s;
+ -ms-transition: border-radius 0.4s;
+ transition: border-radius 0.4s ease; 
+}
+#myNavbar .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.8%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+#myNavbar .dropdown-toggle {
+  margin-top: 9px;
+}
+#myNavbar .dropdown-item {
+  color: $navbar-link;
+  background-color: $transparent !important;
+  text-align: center;
+}
+#myNavbar .dropdown-item:hover {
+  color: $black;
+}

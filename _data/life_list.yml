@@ -1,0 +1,13 @@
+# This file was automatically generated
+# original: assets/images/birds/_species.csv
+
+- name: Ash-Throated Flycatcher
+  thumbnail: assets/images/birds/flycatcher.jpeg
+  location: Ed Davis Park, Santa Clarita, CA
+  date: July 12, 2025
+
+- name: Belted Kingfisher
+  thumbnail: assets/images/birds/kingfisher.jpeg
+  location: Ocean Beach, San Diego, CA
+  date: January 2, 2026
+

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include navbar.html %}
+    <div id={{ page.name | remove: ".md" }}">
+      <section class="bur-body">
+        {{ content }}
+      </section>
+    </div>
+    <div style="height:40px"></div>
+  </body>
+
+  <script src="{{ "/assets/js/navbar.js" }}"></script>
+</html>
