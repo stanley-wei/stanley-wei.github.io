@@ -9,13 +9,13 @@ window.onscroll = function() {scrollFunction()};
 navbar_open = false;
 navbar_toggled = false;
 
-navbar_bg_noscroll = "rgba(195, 195, 195, 0)";
-navbar_textoff_noscroll = "rgba(0, 0, 0, 1)";
-navbar_texton_noscroll = "rgba(84,207,255,1)";
+navbar_bg_noscroll = "rgba(248,248,248,1)";
+navbar_textoff_noscroll = "rgba(153,153,153,1)";
+navbar_texton_noscroll = "rgba(0, 0, 0, 1)";
 
-navbar_bg_scroll = "rgba(193, 193, 193, 1)";
-navbar_textoff_scroll = "rgba(0, 0, 0, 1)";
-navbar_texton_scroll = "rgba(84,207,255,1)";
+navbar_bg_scroll = "rgba(248,248,248,1)";
+navbar_textoff_scroll = "rgba(153,153,153,1)";
+navbar_texton_scroll = "rgba(0, 0, 0, 1)";
 
 hamburger_light = "url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.8%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e\")";
 hamburger_dark = "url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e\")";
@@ -26,7 +26,7 @@ function setUnscrolledNavbar() {
   } else {
     navbar.style.backgroundColor = navbar_bg_noscroll;
   }
-  navbar.style.borderBottom = "0px";
+  // navbar.style.borderBottom = "0px";
   // navbar_toggler.style.border = "0px solid rgba(100,100,100,0.4)";
   navbar_toggler_icon.style.backgroundImage = hamburger_light;
   for (var i = 0; i < navbar_links.length; i++) {
@@ -41,8 +41,8 @@ function setUnscrolledNavbar() {
 
 function setScrolledNavbar() {
   navbar.style.backgroundColor = navbar_bg_scroll;
-  navbar.style.borderBottom = "0px";
-  navbar_toggler.style.border = "0px solid black";
+  // navbar.style.borderBottom = "0px";
+  // navbar_toggler.style.border = "0px solid black";
   // navbar_toggler_icon.style.backgroundImage = hamburger_light;
   for (var i = 0; i < navbar_links.length; i++) {
     navbar_links[i].style.color = navbar_textoff_scroll;

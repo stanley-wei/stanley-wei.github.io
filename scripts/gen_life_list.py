@@ -11,9 +11,9 @@ if __name__ == '__main__':
         reader = csv.reader(file, delimiter=',')
         for row in reader:
             row = [item.strip() for item in row]
-            date = datetime.date.fromisoformat(row[5])
+            date = datetime.date.fromisoformat(row[4])
 
             out.write(f'- name: {row[0]}\n')
-            out.write(f'  thumbnail: assets/images/birds/{row[1]}\n')
-            out.write(f'  location: {row[2]}, {row[3]}, {row[4]}\n')
+            out.write(f'  thumbnail: assets/images/birds/thumbnails/{row[5]}\n')
+            out.write(f'  location: {row[1]}, {row[2]}, {row[3]}\n')
             out.write(f'  date: {date.strftime("%B")} {int(date.strftime("%d"))}, {date.strftime("%Y")}\n\n')
