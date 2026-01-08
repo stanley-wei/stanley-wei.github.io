@@ -1,198 +1,682 @@
 # This file was automatically generated
-# original: assets/images/birds/_species.csv
-
-- name: Belted Kingfisher
-  thumbnail: assets/images/birds/thumbnails/belted_kingfisher.jpg
-  location: Ocean Beach, San Diego, CA
-  date: January 2, 2026
-
-- name: American White Pelican
-  thumbnail: assets/images/birds/thumbnails/american_white_pelican.jpg
-  location: Ocean Beach, San Diego, CA
-  date: January 2, 2026
-
-- name: White-Crowned Sparrow
-  thumbnail: assets/images/birds/thumbnails/white_crowned_sparrow.jpg
-  location: San Elijo Lagoon, San Diego, CA
-  date: December 29, 2025
-
-- name: Great Blue Heron
-  thumbnail: assets/images/birds/thumbnails/great_blue_heron.jpg
-  location: San Elijo Lagoon, San Diego, CA
-  date: December 29, 2025
-
-- name: Black-Crowned Night Heron
-  thumbnail: assets/images/birds/thumbnails/black_crowned_night_heron.jpg
-  location: San Elijo Lagoon, San Diego, CA
-  date: December 29, 2025
-
-- name: California Thrasher
-  thumbnail: assets/images/birds/thumbnails/california_thrasher.jpg
-  location: San Elijo Lagoon, San Diego, CA
-  date: December 29, 2025
-
-- name: Heermann's Gull
-  thumbnail: assets/images/birds/thumbnails/heermanns_gull.jpg
-  location: La Jolla Cove, San Diego, CA
-  date: December 23, 2025
-
-- name: Island Scrub Jay
-  thumbnail: assets/images/birds/thumbnails/island_scrub_jay.jpg
-  location: Santa Cruz Island, Ventura, CA
-  date: November 9, 2025
+# original: assets/images/birds/_life_list.csv
 
 - name: Acorn Woodpecker
-  thumbnail: assets/images/birds/thumbnails/acorn_woodpecker.jpg
+  date: August 2, 2024
   location: Descanso Gardens, La Canada Flintridge, CA
-  date: August 2, 2025
+  thumbnail: assets/images/birds/thumbnails/acorn_woodpecker.jpg
+  images:
+   - file: acorn_woodpecker.jpg
+     date: August 2, 2025
+     location: Descanso Gardens, La Canada Flintridge, CA
 
-- name: Snowy Egret
-  thumbnail: assets/images/birds/thumbnails/snowy_egret.jpg
-  location: Malibu Creek State Park, Calabasas, CA
-  date: July 20, 2025
+- name: Allen's Hummingbird
+  date: May 15, 2023
+  location: UCLA - North Campus, Los Angeles, CA
 
-- name: Turkey Vulture
-  thumbnail: assets/images/birds/thumbnails/turkey_vulture.jpg
-  location: Malibu Creek State Park, Calabasas, CA
-  date: July 20, 2025
+- name: American Coot
+  date: December 29, 2025
+  location: San Elijo Lagoon, San Diego, CA
 
-- name: Red-Whiskered Bulbul
-  thumbnail: assets/images/birds/thumbnails/red_whiskered_bulbul.jpg
-  location: Huntington Gardens, San Marino, CA
-  date: July 18, 2025
+- name: American Crow
+  date: May 15, 2023
+  location: UCLA - North Campus, Los Angeles, CA
 
-- name: Pin-Tailed Whydah
-  thumbnail: assets/images/birds/thumbnails/pin_tailed_whydah.jpg
-  location: Los Angeles Arboretum, Arcadia, CA
-  date: July 18, 2025
-
-- name: Mourning Dove
-  thumbnail: assets/images/birds/thumbnails/mourning_dove.jpg
-  location: Los Angeles Arboretum, Arcadia, CA
-  date: July 18, 2025
-
-- name: Bewick's Wren
-  thumbnail: assets/images/birds/thumbnails/bewicks_wren.jpg
-  location: Los Angeles Arboretum, Arcadia, CA
-  date: July 18, 2025
-
-- name: Ash-Throated Flycatcher
-  thumbnail: assets/images/birds/thumbnails/ash_throated_flycatcher.jpg
-  location: Ed Davis Park, Newhall, CA
-  date: July 12, 2025
-
-- name: Spotted Towhee
-  thumbnail: assets/images/birds/thumbnails/spotted_towhee.jpg
-  location: Ed Davis Park, Newhall, CA
-  date: July 12, 2025
-
-- name: California Quail
-  thumbnail: assets/images/birds/thumbnails/california_quail.jpg
-  location: Ed Davis Park, Newhall, CA
-  date: July 12, 2025
-
-- name: Brown-Headed Cowbird
-  thumbnail: assets/images/birds/thumbnails/brown_headed_cowbird.jpg
-  location: Sepulveda Basin, Van Nuys, CA
-  date: July 6, 2025
-
-- name: Red-Winged Blackbird
-  thumbnail: assets/images/birds/thumbnails/red_winged_blackbird.jpg
-  location: Sepulveda Basin, Van Nuys, CA
-  date: July 6, 2025
-
-- name: Blue Grosbeak
-  thumbnail: assets/images/birds/thumbnails/blue_grosbeak.jpg
-  location: Sepulveda Basin, Van Nuys, CA
-  date: July 6, 2025
-
-- name: White-Breasted Nuthatch
-  thumbnail: assets/images/birds/thumbnails/white_breasted_nuthatch.jpg
-  location: Sepulveda Basin, Van Nuys, CA
-  date: July 6, 2025
-
-- name: Great-Horned Owl
-  thumbnail: assets/images/birds/thumbnails/great_horned_owl.jpg
-  location: Sepulveda Basin, Van Nuys, CA
-  date: July 6, 2025
-
-- name: Western Bluebird
-  thumbnail: assets/images/birds/thumbnails/western_bluebird.jpg
-  location: Sepulveda Basin, Van Nuys, CA
-  date: July 6, 2025
-
-- name: California Scrub Jay
-  thumbnail: assets/images/birds/thumbnails/california_scrub_jay.jpg
-  location: Santa Susana Pass, Los Angeles, CA
-  date: July 4, 2025
-
-- name: Black Phoebe
-  thumbnail: assets/images/birds/thumbnails/black_phoebe.jpg
-  location: Japanese Friendship Garden, San Diego, CA
-  date: March 29, 2025
-
-- name: Townsend's Warbler
-  thumbnail: assets/images/birds/thumbnails/townsends_warbler.jpg
-  location: Japanese Friendship Garden, San Diego, CA
-  date: March 29, 2025
-
-- name: House Sparrow
-  thumbnail: assets/images/birds/thumbnails/house_sparrow.jpg
-  location: La Jolla Cove, San Diego, CA
-  date: September 19, 2024
-
-- name: Northern Cardinal
-  thumbnail: assets/images/birds/thumbnails/northern_cardinal.jpg
-  location: United States Botanic Garden, Washington, DC
-  date: September 13, 2024
-
-- name: Gray Catbird
-  thumbnail: assets/images/birds/thumbnails/gray_catbird.jpg
-  location: United States Botanic Garden, Washington, DC
-  date: September 13, 2024
-
-- name: Downy Woodpecker
-  thumbnail: assets/images/birds/thumbnails/downy_woodpecker.jpg
-  location: Rock Creek Park, Washington, DC
-  date: September 13, 2024
-
-- name: Red-Bellied Woodpecker
-  thumbnail: assets/images/birds/thumbnails/red_bellied_woodpecker.jpg
-  location: Rock Creek Park, Washington, DC
-  date: September 13, 2024
+- name: American Goldfinch
+  date: September 10, 2024
+  location: US Botanic Garden, Washington, DC
 
 - name: American Robin
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
   thumbnail: assets/images/birds/thumbnails/american_robin.jpg
-  location: Rock Creek Park, Washington, DC
-  date: September 13, 2024
+  images:
+   - file: american_robin.jpg
+     date: September 13, 2024
+     location: Rock Creek Park, Washington, DC
+
+- name: American White Pelican
+  date: January 2, 2026
+  location: Ocean Beach, San Diego, CA
+  thumbnail: assets/images/birds/thumbnails/american_white_pelican.jpg
+  images:
+   - file: american_white_pelican.jpg
+     date: January 2, 2026
+     location: Ocean Beach, San Diego, CA
+
+- name: American Wigeon
+  date: December 29, 2025
+  location: San Elijo Lagoon, San Diego, CA
+
+- name: Anna's Hummingbird
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Ash-Throated Flycatcher
+  date: July 12, 2025
+  location: Ed Davis Park, Newhall, CA
+  thumbnail: assets/images/birds/thumbnails/ash_throated_flycatcher.jpg
+  images:
+   - file: ash_throated_flycatcher.jpg
+     date: July 12, 2025
+     location: Ed Davis Park, Newhall, CA
+
+- name: Band-Tailed Pigeon
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Barn Swallow
+  date: June 19, 2025
+  location: Ballona Wetlands, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/barn_swallow.jpg
+
+- name: Belted Kingfisher
+  date: January 2, 2026
+  location: Ocean Beach, San Diego, CA
+  thumbnail: assets/images/birds/thumbnails/belted_kingfisher.jpg
+  images:
+   - file: belted_kingfisher.jpg
+     date: January 2, 2026
+     location: Ocean Beach, San Diego, CA
+
+- name: Bewick's Wren
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/bewicks_wren.jpg
+  images:
+   - file: bewicks_wren.jpg
+     date: July 18, 2025
+     location: Los Angeles Arboretum, Arcadia, CA
+
+- name: Black-Bellied Plover
+  date: January 2, 2026
+  location: Ocean Beach, San Diego, CA
+
+- name: Black-Crowned Night Heron
+  date: December 29, 2025
+  location: San Elijo Lagoon, San Diego, CA
+  thumbnail: assets/images/birds/thumbnails/black_crowned_night_heron.jpg
+  images:
+   - file: black_crowned_night_heron.jpg
+     date: December 29, 2025
+     location: San Elijo Lagoon, San Diego, CA
+
+- name: Black-Headed Grosbeak
+  date: July 12, 2025
+  location: Ed Davis Park, Newhall, CA
+  thumbnail: assets/images/birds/thumbnails/black_headed_grosbeak.jpg
+
+- name: Black-Necked Stilt
+  date: June 19, 2025
+  location: Ballona Wetlands, Los Angeles, CA
+
+- name: Black Oystercatcher
+  date: September 19, 2024
+  location: La Jolla Cove, San Diego, CA
+  thumbnail: assets/images/birds/thumbnails/black_oystercatcher.jpg
+
+- name: Black Phoebe
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/black_phoebe.jpg
+  images:
+   - file: black_phoebe.jpg
+     date: March 29, 2025
+     location: Japanese Friendship Garden, San Diego, CA
+
+- name: Black Turnstone
+  date: December 23, 2025
+  location: La Jolla Cove, San Diego, CA
 
 - name: Black Vulture
-  thumbnail: assets/images/birds/thumbnails/black_vulture.jpg
+  date: September 12, 2024
   location: Theodore Roosevelt Island, Washington, DC
-  date: September 12, 2024
+  thumbnail: assets/images/birds/thumbnails/black_vulture.jpg
+  images:
+   - file: black_vulture.jpg
+     date: September 12, 2024
+     location: Theodore Roosevelt Island, Washington, DC
 
-- name: Northern Mockingbird
-  thumbnail: assets/images/birds/thumbnails/northern_mockingbird.jpg
-  location: Kenilworth Park, Washington, DC
+- name: Blue-Gray Gnatcatcher
+  date: July 12, 2025
+  location: Ed Davis Park, Newhall, CA
+  thumbnail: assets/images/birds/thumbnails/blue_gray_gnatcatcher.jpg
+
+- name: Blue Grosbeak
+  date: July 6, 2025
+  location: Sepulveda Basin, Van Nuys, CA
+  thumbnail: assets/images/birds/thumbnails/blue_grosbeak.jpg
+  images:
+   - file: blue_grosbeak.jpg
+     date: July 6, 2025
+     location: Sepulveda Basin, Van Nuys, CA
+
+- name: Blue Jay
   date: September 12, 2024
+  location: Kenilworth Park, Washington, DC
 
 - name: Brandt's Cormorant
+  date: March 27, 2023
+  location: La Jolla Cove, San Diego, CA
   thumbnail: assets/images/birds/thumbnails/brandts_cormorant.jpg
-  location: La Jolla Cove, San Diego, CA
-  date: June 19, 2024
+  images:
+   - file: brandts_cormorant.jpg
+     date: June 19, 2024
+     location: La Jolla Cove, San Diego, CA
 
-- name: Western Gull
-  thumbnail: assets/images/birds/thumbnails/western_gull.jpg
+- name: Brown-Headed Cowbird
+  date: July 6, 2025
+  location: Sepulveda Basin, Van Nuys, CA
+  thumbnail: assets/images/birds/thumbnails/brown_headed_cowbird.jpg
+  images:
+   - file: brown_headed_cowbird.jpg
+     date: July 6, 2025
+     location: Sepulveda Basin, Van Nuys, CA
+
+- name: Brown Pelican
+  date: September 12, 2023
   location: La Jolla Cove, San Diego, CA
-  date: June 19, 2024
+
+- name: Bullock's Oriole
+  date: July 6, 2025
+  location: Sepulveda Basin, Van Nuys, CA
+
+- name: Bushtit
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: California Quail
+  date: July 15, 2024
+  location: Topanga State Park, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/california_quail.jpg
+  images:
+   - file: california_quail.jpg
+     date: July 12, 2025
+     location: Ed Davis Park, Newhall, CA
+
+- name: California Scrub-Jay
+  date: August 24, 2024
+  location: Griffith Park, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/california_scrub_jay.jpg
+  images:
+   - file: california_scrub_jay.jpg
+     date: July 4, 2025
+     location: Santa Susana Pass, Los Angeles, CA
+
+- name: California Thrasher
+  date: February 17, 2025
+  location: Griffith Park, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/california_thrasher.jpg
+  images:
+   - file: california_thrasher.jpg
+     date: December 29, 2025
+     location: San Elijo Lagoon, San Diego, CA
+
+- name: California Towhee
+  date: May 15, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Canada Goose
+  date: July 23, 2023
+  location: Tingley Beach, Albuquerque, NM
+
+- name: Cassin's Kingbird
+  date: November 16, 2024
+  location: UCLA - North Campus, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/cassins_kingbird.jpg
+
+- name: Cedar Waxwing
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Cliff Swallow
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Common Raven
+  date: November 16, 2024
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Common Yellowthroat
+  date: September 13, 2024
+  location: United States Botanic Garden, Washington, DC
+
+- name: Cooper's Hawk
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/coopers_hawk.jpg
+
+- name: Dark-Eyed Junco
+  date: May 15, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/dark_eyed_junco.jpg
+
+- name: Double-Crested Cormorant
+  date: July 6, 2025
+  location: Sepulveda Basin, Van Nuys, CA
+
+- name: Downy Woodpecker
+  date: September 13, 2024
+  location: Rock Creek Park, Washington, DC
+  thumbnail: assets/images/birds/thumbnails/downy_woodpecker.jpg
+  images:
+   - file: downy_woodpecker.jpg
+     date: September 13, 2024
+     location: Rock Creek Park, Washington, DC
+
+- name: Eastern Wood-Pewee
+  date: September 12, 2024
+  location: Kenilworth Park, Washington, DC
+
+- name: Egyptian Goose
+  date: August 12, 2025
+  location: Heritage Community Park, Irvine, CA
+
+- name: European Starling
+  date: April 25, 2025
+  location: UCLA, Los Angeles, CA
+
+- name: Gadwall
+  date: December 29, 2025
+  location: San Elijo Lagoon, San Diego, CA
+
+- name: Gray Catbird
+  date: September 10, 2024
+  location: US Botanic Garden, Washington, DC
+  thumbnail: assets/images/birds/thumbnails/gray_catbird.jpg
+  images:
+   - file: gray_catbird.jpg
+     date: September 13, 2024
+     location: United States Botanic Garden, Washington, DC
+
+- name: Great Blue Heron
+  date: September 10, 2024
+  location: Constitution Gardens, Washington, DC
+  thumbnail: assets/images/birds/thumbnails/great_blue_heron.jpg
+  images:
+   - file: great_blue_heron.jpg
+     date: December 29, 2025
+     location: San Elijo Lagoon, San Diego, CA
+
+- name: Great Egret
+  date: September 12, 2024
+  location: Kenilworth Park, Washington, DC
+  thumbnail: assets/images/birds/thumbnails/great_egret.jpg
 
 - name: Greater Roadrunner
-  thumbnail: assets/images/birds/thumbnails/greater_roadrunner.jpg
-  location: Nob Hill, Albuquerque, NM
   date: July 2, 2023
+  location: Nob Hill, Albuquerque, NM
+  thumbnail: assets/images/birds/thumbnails/greater_roadrunner.jpg
+  images:
+   - file: greater_roadrunner.jpg
+     date: July 2, 2023
+     location: Nob Hill, Albuquerque, NM
+
+- name: Great-Horned Owl
+  date: January 31, 2025
+  location: UCLA - Botanical Garden, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/great_horned_owl.jpg
+  images:
+   - file: great_horned_owl.jpg
+     date: July 6, 2025
+     location: Sepulveda Basin, Van Nuys, CA
+
+- name: Great-Tailed Grackle
+  date: July 6, 2025
+  location: Sepulveda Basin, Van Nuys, CA
+
+- name: Heermann's Gull
+  date: September 19, 2024
+  location: La Jolla Cove, San Diego, CA
+  thumbnail: assets/images/birds/thumbnails/heermanns_gull.jpg
+  images:
+   - file: heermanns_gull.jpg
+     date: December 23, 2025
+     location: La Jolla Cove, San Diego, CA
+
+- name: Hermit Thrush
+  date: January 31, 2025
+  location: UCLA - Botanical Garden, Los Angeles, CA
+
+- name: Hooded Oriole
+  date: July 18, 2025
+  location: Los Angeles Arboretum, Arcadia, CA
+  thumbnail: assets/images/birds/thumbnails/hooded_oriole.jpg
+
+- name: House Finch
+  date: May 15, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: House Sparrow
+  date: September 19, 2024
+  location: La Jolla Cove, San Diego, CA
+  thumbnail: assets/images/birds/thumbnails/house_sparrow.jpg
+  images:
+   - file: house_sparrow.jpg
+     date: September 19, 2024
+     location: La Jolla Cove, San Diego, CA
+
+- name: Hudsonian Whimbrel
+  date: September 16, 2024
+  location: La Jolla Cove, San Diego, CA
+
+- name: Island Scrub-Jay
+  date: November 13, 2025
+  location: Santa Cruz Island, Ventura, CA
+  thumbnail: assets/images/birds/thumbnails/island_scrub_jay.jpg
+  images:
+   - file: island_scrub_jay.jpg
+     date: November 9, 2025
+     location: Santa Cruz Island, Ventura, CA
+
+- name: Killdeer
+  date: December 29, 2025
+  location: San Elijo Lagoon, San Diego, CA
+
+- name: Lawrence's Goldfinch
+  date: July 6, 2025
+  location: Sepulveda Basin, Van Nuys, CA
+
+- name: Lesser Goldfinch
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/lesser_goldfinch.jpg
+
+- name: Little Blue Heron
+  date: January 16, 2025
+  location: Shell Beach, San Diego, CA
+
+- name: Long-Billed Curlew
+  date: December 23, 2025
+  location: La Jolla Cove, San Diego, CA
+
+- name: Mallard
+  date: July 29, 2023
+  location: ABQ BioPark Zoo, Albuquerque, NM
+  thumbnail: assets/images/birds/thumbnails/mallard.jpg
+
+- name: Marbled Godwit
+  date: January 2, 2026
+  location: Ocean Beach, San Diego, CA
+
+- name: Merlin
+  date: December 29, 2025
+  location: San Elijo Lagoon, San Diego, CA
+  thumbnail: assets/images/birds/thumbnails/merlin.jpg
+
+- name: Mourning Dove
+  date: May 15, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/mourning_dove.jpg
+  images:
+   - file: mourning_dove.jpg
+     date: July 18, 2025
+     location: Los Angeles Arboretum, Arcadia, CA
+
+- name: Muscovy Duck
+  date: July 23, 2023
+  location: Tingley Beach, Albuquerque, NM
+
+- name: Northern Cardinal
+  date: September 10, 2024
+  location: US Botanic Garden, Washington, DC
+  thumbnail: assets/images/birds/thumbnails/northern_cardinal.jpg
+  images:
+   - file: northern_cardinal.jpg
+     date: September 13, 2024
+     location: United States Botanic Garden, Washington, DC
+
+- name: Northern Flicker
+  date: July 12, 2025
+  location: Ed Davis Park, Newhall, CA
+  thumbnail: assets/images/birds/thumbnails/northern_flicker.jpg
+
+- name: Northern Mockingbird
+  date: September 12, 2024
+  location: Kenilworth Park, Washington, DC
+  thumbnail: assets/images/birds/thumbnails/northern_mockingbird.jpg
+  images:
+   - file: northern_mockingbird.jpg
+     date: September 12, 2024
+     location: Kenilworth Park, Washington, DC
+
+- name: Northern Pintail
+  date: December 29, 2025
+  location: San Elijo Lagoon, San Diego, CA
+
+- name: Northern Rough-Winged Swallow
+  date: July 6, 2025
+  location: Sepulveda Basin, Van Nuys, CA
+  thumbnail: assets/images/birds/thumbnails/northern_rough_winged_swallow.jpg
+
+- name: Northern Yellow Warbler
+  date: July 6, 2025
+  location: Sepulveda Basin, Van Nuys, CA
+
+- name: Nuttall's Woodpecker
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Oak Titmouse
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Orange-Crowned Warbler
+  date: November 1, 2024
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Osprey
+  date: January 1, 2024
+  location: Torrey Pines State Reserve, San Diego, CA
+
+- name: Pied-Billed Grebe
+  date: July 6, 2025
+  location: Sepulveda Basin, Van Nuys, CA
+
+- name: Pin-Tailed Whydah
+  date: July 18, 2025
+  location: Los Angeles Arboretum, Arcadia, CA
+  thumbnail: assets/images/birds/thumbnails/pin_tailed_whydah.jpg
+  images:
+   - file: pin_tailed_whydah.jpg
+     date: July 18, 2025
+     location: Los Angeles Arboretum, Arcadia, CA
+
+- name: Purple Finch
+  date: May 19, 2025
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Red-Bellied Woodpecker
+  date: September 13, 2024
+  location: Rock Creek Park, Washington, DC
+  thumbnail: assets/images/birds/thumbnails/red_bellied_woodpecker.jpg
+  images:
+   - file: red_bellied_woodpecker.jpg
+     date: September 13, 2024
+     location: Rock Creek Park, Washington, DC
+
+- name: Red-Breasted Merganser
+  date: January 2, 2026
+  location: Ocean Beach, San Diego, CA
+
+- name: Redhead
+  date: December 29, 2025
+  location: San Elijo Lagoon, San Diego, CA
+
+- name: Red-Naped Sapsucker
+  date: January 31, 2025
+  location: UCLA - Botanical Garden, Los Angeles, CA
+
+- name: Red-Shouldered Hawk
+  date: November 1, 2024
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Red-Tailed Hawk
+  date: June 22, 2023
+  location: Mount Soledad, San Diego, CA
+
+- name: Red-Whiskered Bulbul
+  date: July 18, 2025
+  location: Los Angeles Arboretum, Arcadia, CA
+  thumbnail: assets/images/birds/thumbnails/red_whiskered_bulbul.jpg
+  images:
+   - file: red_whiskered_bulbul.jpg
+     date: July 18, 2025
+     location: Huntington Gardens, San Marino, CA
+
+- name: Red-Winged Blackbird
+  date: September 12, 2024
+  location: Kenilworth Park, Washington, DC
+  thumbnail: assets/images/birds/thumbnails/red_winged_blackbird.jpg
+  images:
+   - file: red_winged_blackbird.jpg
+     date: July 6, 2025
+     location: Sepulveda Basin, Van Nuys, CA
 
 - name: Rock Pigeon
+  date: November 16, 2024
+  location: UCLA - North Campus, Los Angeles, CA
   thumbnail: assets/images/birds/thumbnails/rock_pigeon.jpg
-  location: National Mall, Washington, DC
-  date: September 13, 2024
+  images:
+   - file: rock_pigeon.jpg
+     date: September 13, 2024
+     location: National Mall, Washington, DC
+
+- name: Royal Tern
+  date: December 27, 2023
+  location: La Jolla Cove, San Diego, CA
+
+- name: Ruby-Crowned Kinglet
+  date: November 1, 2024
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Rufous Hummingbird
+  date: September 8, 2024
+  location: UCLA - Botanical Garden, Washington, DC
+
+- name: Snowy Egret
+  date: August 7, 2024
+  location: Heritage Community Park, Irvine, CA
+  thumbnail: assets/images/birds/thumbnails/snowy_egret.jpg
+  images:
+   - file: snowy_egret.jpg
+     date: July 20, 2025
+     location: Malibu Creek State Park, Calabasas, CA
+
+- name: Song Sparrow
+  date: May 15, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Spotted Towhee
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/spotted_towhee.jpg
+  images:
+   - file: spotted_towhee.jpg
+     date: July 12, 2025
+     location: Ed Davis Park, Newhall, CA
+
+- name: Swan Goose
+  date: July 23, 2023
+  location: Tingley Beach, Albuquerque, NM
+
+- name: Townsend's Warbler
+  date: November 1, 2024
+  location: UCLA, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/townsends_warbler.jpg
+  images:
+   - file: townsends_warbler.jpg
+     date: March 29, 2025
+     location: Japanese Friendship Garden, San Diego, CA
+
+- name: Tufted Titmouse
+  date: September 12, 2024
+  location: Kenilworth Park, Washington, DC
+
+- name: Turkey Vulture
+  date: May 19, 2025
+  location: UCLA - North Campus, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/turkey_vulture.jpg
+  images:
+   - file: turkey_vulture.jpg
+     date: July 20, 2025
+     location: Malibu Creek State Park, Calabasas, CA
+
+- name: Western Bluebird
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/western_bluebird.jpg
+  images:
+   - file: western_bluebird.jpg
+     date: July 6, 2025
+     location: Sepulveda Basin, Van Nuys, CA
+
+- name: Western Flycatcher
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Western Grebe
+  date: December 29, 2025
+  location: San Elijo Lagoon, San Diego, CA
+
+- name: Western Gull
+  date: September 18, 2024
+  location: La Jolla Cove, San Diego, CA
+  thumbnail: assets/images/birds/thumbnails/western_gull.jpg
+  images:
+   - file: western_gull.jpg
+     date: June 19, 2024
+     location: La Jolla Cove, San Diego, CA
+
+- name: Western Tanager
+  date: February 21, 2025
+  location: UCLA - Botanical Garden, Los Angeles, CA
+
+- name: Western Wood-Peewee
+  date: July 20, 2025
+  location: Malibu Creek State Park, Calabasas, CA
+  thumbnail: assets/images/birds/thumbnails/western_wood_peewee.jpg
+
+- name: White-Breasted Nuthatch
+  date: November 1, 2024
+  location: UCLA - North Campus, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/white_breasted_nuthatch.jpg
+  images:
+   - file: white_breasted_nuthatch.jpg
+     date: July 6, 2025
+     location: Sepulveda Basin, Van Nuys, CA
+
+- name: White-Crowned Sparrow
+  date: November 7, 2025
+  location: UCLA - Sage Hill, Los Angeles, CA
+  thumbnail: assets/images/birds/thumbnails/white_crowned_sparrow.jpg
+  images:
+   - file: white_crowned_sparrow.jpg
+     date: December 29, 2025
+     location: San Elijo Lagoon, San Diego, CA
+
+- name: White-Throated Swift
+  date: May 19, 2025
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Willet
+  date: December 29, 2025
+  location: San Elijo Lagoon, San Diego, CA
+
+- name: Wilson's Warbler
+  date: January 31, 2025
+  location: UCLA - Botanical Garden, Los Angeles, CA
+
+- name: Wrentit
+  date: July 6, 2025
+  location: Sepulveda Basin, Van Nuys, CA
+  thumbnail: assets/images/birds/thumbnails/wrentit.jpg
+
+- name: Yellow-Chevroned Parakeet
+  date: May 31, 2023
+  location: UCLA - North Campus, Los Angeles, CA
+
+- name: Yellow-Rumped Warbler
+  date: November 1, 2024
+  location: UCLA - North Campus, Los Angeles, CA
 

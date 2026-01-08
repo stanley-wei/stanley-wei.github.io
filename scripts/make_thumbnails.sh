@@ -21,8 +21,11 @@ for f in $(ls $1); do
     then
       newfile=${file%.*}.jpg
       convert $file -format jpg $newfile
-      rm $file
-      file=$newfile
+      if [ -f $newfile ]
+      then
+        rm $file
+        file=$newfile
+      fi
     fi
 
     mv $file "${file}_copy"
